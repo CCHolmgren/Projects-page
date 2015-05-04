@@ -22,6 +22,12 @@ Most stuff I have done can be found at my [Github](https://github.com/Ravengenoc
 
 # Projects done while studying at Linneaus University
 
+### Kubus
+![](http://puu.sh/hB1PS/0d7af250a2.jpg)
+[Kubus](http://www2.kau.se/jorrbomm/) is a project developed in a team. Kubus is a cube builder application intended to be used on iPads and other mobile units, but can also be used on your computer without any problem. It uses ThreeJS and jQuery with a PHP backend.
+This project involved all parts of a larger project. Meetings with the customer, desigining the application, risks, testing and so on. In the end we delivered an application that is focused on math education for school classes in the ages 7-12 years.
+Languages: **Javascript**, **PHP**, other techniques: **ThreeJS**, **jQuery**, **SCRUM**, **Teamwork**, **Responsive**
+
 ### PHPForms
 ![](http://puu.sh/hwgxm/3331394ca1.png)
 [PHPForms](https://github.com/Ravengenocide/PHPForms) is a library for creating and handling forms using nothing but PHP 5.4+.
