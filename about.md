@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a web developer from Sweden.
+Look in [projects]({{site.baseurl}}/projects/) to see what I have done.
+[CV in english](https://drive.google.com/file/d/0BzRt5LGKvDl7d21xaXg0eXRfQ0E/view?usp=sharing) and [CV in Swedish](https://drive.google.com/file/d/0BzRt5LGKvDl7QmJvLUpCN2ZXWVE/view?usp=sharing).

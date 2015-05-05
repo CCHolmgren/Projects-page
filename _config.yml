@@ -1,12 +1,12 @@
 # Site settings
 title: Christoffer Holmgren
-email: your-email@domain.com
+email: christoffer.holmgren@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Christoffer Holmgren - My personal page, my projects and other random thoughts.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://www.christofferholmgren.se" # the base hostname & protocol for your site
-twitter_username: ravengenocide
-github_username:  ravengenocide
+twitter_username: CCHolmgren
+github_username:  CCHolmgren
 
 # Build settings
 markdown: kramdown
